@@ -12,7 +12,7 @@ body {
     flex-wrap: wrap;
     max-width: 960px;
     text-align: left;
-    background:rgba(0,0,0,50%);
+    background:rgba(0,0,0,0%);
     border-radius: 9px;
     margin:auto
 }
