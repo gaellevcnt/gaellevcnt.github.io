@@ -38,15 +38,29 @@ body {
 h1 {
     color : black;
         font-size :30px; 
-    margin-top: 0
+    margin-top: 0;
+         font-family: 'IM Fell English SC', sans-serif;
 }
 h2 {
     color : gainsboro;
-        font-size : 15px;
-    text-shadow: 5px 5px 5px black
+        font-size : 18px;
+    text-shadow: 5px 5px 5px black;
+  font-family: 'Alegreya', serif;
 }
 p{
     color:ghostwhite;
-        font-size : 12px;
+        font-size : 15px;
         text-shadow: 5px 5px 5px black;
+}
+.important{
+    color: darkred;
+    font-size:20px;
+    font-family: 'IM Fell English SC', sans-serif;
+}
+
+span{
+   font-family: 'Alegreya', serif;
+} 
+.oki{
+    margin-top: -1px
 }
